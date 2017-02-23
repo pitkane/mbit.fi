@@ -18,8 +18,8 @@ class App extends Component {
           2817872-4
         </p>
         <p className="btns">
-          <a href="https://twitter.com/pitkane" target="_blank" rel="external" className="btn btn--twitter" title="Twitter">Twitter</a>
           <a href="https://github.com/pitkane" target="_blank" rel="external" className="btn btn--github" title="GitHub">GitHub</a>
+          <a href="https://twitter.com/pitkane" target="_blank" rel="external" className="btn btn--twitter" title="Twitter">Twitter</a>
         </p>
       </div>
     );
