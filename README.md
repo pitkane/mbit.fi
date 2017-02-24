@@ -1,3 +1,3 @@
 # Mbit.fi
 
-http://mbit.fi
+http://www.mbit.fi
