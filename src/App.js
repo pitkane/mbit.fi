@@ -11,7 +11,7 @@ class App extends Component {
           Mbit Finland
         </p>
         <p className="">
-          Mikko Pitkänen
+          Mikko Kohtala
         </p>
         <p className="">
           FI28178724
